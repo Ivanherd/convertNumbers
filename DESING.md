@@ -1,6 +1,7 @@
 
-**## Class name addTXT**
+**Class name addTXT**
 
-| TITULO1|
+| TITULO1| TITULO2|
 | ----- | ---- |
-| Responsibilities | Collaborators |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
