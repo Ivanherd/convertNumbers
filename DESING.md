@@ -1,7 +1,7 @@
 
 **Class name addTXT**
 
-| TITULO1| TITULO2|
+| Class name| |
 | ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+| Responsabilitis | Collaborators |
 
