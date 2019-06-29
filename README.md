@@ -9,11 +9,12 @@ In this program you can convert numbers romans in arab or arab in romans.
 
 | Value | United | Destination |
 | ----- | ---- | ----|
-| x | Roman | Arb |
+| x | Roman | Arab |
 
 2.We are going to enter the document txt by console.
+
 3.You will receive as a result: 
 
 | Value | United | Destination | Result  |
 | ----- | ---- | ---- | ---- |
-| x | Roman | Arb |  10  |
+| x | Roman | Arab |  10  |
