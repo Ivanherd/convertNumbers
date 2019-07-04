@@ -11,4 +11,7 @@
 | Receive a int value | int value  |
 | valid that is not greater than > 3999 | int value|
 | valid that is not less than < 1| int value|
-
+| divide the value by 1000 | int value |
+| divide the value by 100 | int value |
+| divide the value by 10 | int value |
+| Receive a string object | string object|
