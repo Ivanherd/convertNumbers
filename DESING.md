@@ -23,5 +23,5 @@
 | ----- | ---- |
 | Receive a txt document | document direction txt |
 | read txt document| txt document | 
-| Create a list string | |
+| Create a list string | txt document |
 | create a txt document | list string |
