@@ -1,0 +1,11 @@
+/Users/cabicash/Hernandez/convertNumbers/obj/Debug/netcoreapp2.2/convertNumbers.csprojAssemblyReference.cache
+/Users/cabicash/Hernandez/convertNumbers/obj/Debug/netcoreapp2.2/convertNumbers.csproj.CoreCompileInputs.cache
+/Users/cabicash/Hernandez/convertNumbers/obj/Debug/netcoreapp2.2/convertNumbers.AssemblyInfoInputs.cache
+/Users/cabicash/Hernandez/convertNumbers/obj/Debug/netcoreapp2.2/convertNumbers.AssemblyInfo.cs
+/Users/cabicash/Hernandez/convertNumbers/bin/Debug/netcoreapp2.2/convertNumbers.deps.json
+/Users/cabicash/Hernandez/convertNumbers/bin/Debug/netcoreapp2.2/convertNumbers.runtimeconfig.json
+/Users/cabicash/Hernandez/convertNumbers/bin/Debug/netcoreapp2.2/convertNumbers.runtimeconfig.dev.json
+/Users/cabicash/Hernandez/convertNumbers/bin/Debug/netcoreapp2.2/convertNumbers.dll
+/Users/cabicash/Hernandez/convertNumbers/bin/Debug/netcoreapp2.2/convertNumbers.pdb
+/Users/cabicash/Hernandez/convertNumbers/obj/Debug/netcoreapp2.2/convertNumbers.dll
+/Users/cabicash/Hernandez/convertNumbers/obj/Debug/netcoreapp2.2/convertNumbers.pdb

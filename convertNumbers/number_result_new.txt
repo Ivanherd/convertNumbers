@@ -1,0 +1,4 @@
+value|united|convert|result
+M|roman|arab|1000
+3482|arab|roman|MMMCDLXXXII
+LXX|roman|arab|70
