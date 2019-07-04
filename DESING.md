@@ -1,7 +1,7 @@
 
 **CRC Cards**
 
-| Class name| |
+| Class name Roman| |
 | ----- | ---- |
 | Responsabilitis | Collaborators |
 
