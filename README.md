@@ -25,3 +25,5 @@ In this program you can convert numbers romans in arab or arab in romans.
     - Text editor Visual Code 
     - Install dotnet ".NEt core SDK" 
     - Document in txt format 
+
+For install dotnet ".NEt core SDK" use this link **https://dotnet.microsoft.com/download**
