@@ -19,6 +19,9 @@
 
 
 
-| Class name Program| 
+| Class name Program| |
 | ----- | ---- |
-| Receive a txt document | txt document |
+| Receive a txt document | document direction txt |
+| read txt document| txt document | 
+| Create a list string | |
+| create a txt document | list string |
