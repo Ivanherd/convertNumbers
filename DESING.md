@@ -3,5 +3,7 @@
 
 | Class name Roman| |
 | ----- | ---- |
-| Responsabilitis | Collaborators |
+| Receive a string object
+  hola
+| string object |
 
