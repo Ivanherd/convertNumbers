@@ -30,4 +30,4 @@
  **UML CLASS**
  
  
-![texto cualquiera por si no carga la imagen](https://www.google.com/search?q=img&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjp8M6pgZzjAhWjxVkKHSgzBkYQ_AUIECgB&biw=1797&bih=922#imgrc=LSENIUrryc6iJM:)
+![texto cualquiera por si no carga la imagen](https://www.google.com/search?q=img&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjp8M6pgZzjAhWjxVkKHSgzBkYQ_AUIECgB&biw=1797&bih=922#imgrc=RYBz6TYw2D7ZZM:)
