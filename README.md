@@ -7,7 +7,7 @@ In this program you can convert numbers romans in arab or arab in romans.
 
 1 - Have a txt document, with the format: 
 
-| Value | United | Destination |
+| Value | Unit | Destination |
 | ----- | ---- | ----|
 | x | Roman | Arab |
 
@@ -15,7 +15,7 @@ In this program you can convert numbers romans in arab or arab in romans.
 
 **Example:** 
 ```
-value|United|Destination
+value|Unit|Destination
 x|roman|arab
 10|arab|roman
 ```
@@ -24,9 +24,16 @@ x|roman|arab
 
 3 - You will receive as a result: 
 
-| Value | United | Destination | Result  |
+| Value | Unit | Destination | Result  |
 | ----- | ---- | ---- | ---- |
 | x | Roman | Arab |  10  |
+
+**Example:** 
+```
+value|Unit|Destination|result
+x|roman|arab|10
+10|arab|roman|X
+```
 
 4 - **Tools and technologies used**
 
