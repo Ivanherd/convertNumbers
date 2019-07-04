@@ -5,16 +5,23 @@ In this program you can convert numbers romans in arab or arab in romans.
 
 **How to use the program ?** 
 
-1.Have a txt document, with the format: 
+1 - Have a txt document, with the format: 
 
 | Value | United | Destination |
 | ----- | ---- | ----|
 | x | Roman | Arab |
 
-2.We are going to enter the document txt by console.
+2 - We will enter the address of our document txt by console..
 
-3.You will receive as a result: 
+3 - You will receive as a result: 
 
 | Value | United | Destination | Result  |
 | ----- | ---- | ---- | ---- |
 | x | Roman | Arab |  10  |
+
+4 - **Tools and technologies used**
+
+    - Language C# 
+    - Text editor Visual Code 
+    - Install dotnet ".NEt core SDK" 
+    - Document in txt format 
