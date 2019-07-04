@@ -15,3 +15,4 @@
 | divide the value by 100 | int value |
 | divide the value by 10 | int value |
 | Receive a string object | string object|
+| add values to string | string object |
