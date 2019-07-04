@@ -11,6 +11,8 @@ In this program you can convert numbers romans in arab or arab in romans.
 | ----- | ---- | ----|
 | x | Roman | Arab |
 
+**Note:** The values must be divided only and exclusively by ----> | <------
+ 
 2 - We will enter the address of our document txt by console..
 
 3 - You will receive as a result: 
