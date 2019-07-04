@@ -42,6 +42,6 @@ x|roman|arab|10
     - Install dotnet ".NEt core SDK" on your computer
     - Document in txt format 
 
-[click here to download .NEt core SDK](https://dotnet.microsoft.com/download)
+[Click here to download .NEt core SDK](https://dotnet.microsoft.com/download)
 
 **Note:** In order to use the system in visual code, it is mandatory to install **.NEt core SDK**
