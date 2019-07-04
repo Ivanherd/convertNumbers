@@ -14,8 +14,9 @@ In this program you can convert numbers romans in arab or arab in romans.
 **Note:** The values must be divided only and exclusively by " | "
 
 **Example:** *value|United|Destination*
-             *X|roman|arab*
- 
+
+*x|roman|arab
+       
 2 - We will enter the address of our document txt by console..
 
 3 - You will receive as a result: 
