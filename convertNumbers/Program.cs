@@ -117,11 +117,11 @@ namespace convertNumbers
         {
 
             Console.WriteLine("Ingrese el documento Txt:");
-            var direction = Console.ReadLine();
+            var direction = Console.ReadLine().Trim();
             var newDirection = direction.Substring(0, direction.Length - 5);
 
             // C:\Users\ivanh\convertApp\numbers.txt
-            var document = System.IO.File.ReadAllLines(direction);
+            var document = System.IO.File.ReadAllLines(@direction);
             List<string> Numbers_Convert = new List<string>();
 
             string val;

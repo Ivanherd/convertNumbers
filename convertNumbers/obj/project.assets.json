@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cabicash/Hernandez/convertNumbers/convertNumbers.csproj",
+      "projectUniqueName": "/Users/cabicash/convertNumbers/convertNumbers/convertNumbers.csproj",
       "projectName": "convertNumbers",
-      "projectPath": "/Users/cabicash/Hernandez/convertNumbers/convertNumbers.csproj",
+      "projectPath": "/Users/cabicash/convertNumbers/convertNumbers/convertNumbers.csproj",
       "packagesPath": "/Users/cabicash/.nuget/packages/",
-      "outputPath": "/Users/cabicash/Hernandez/convertNumbers/obj/",
+      "outputPath": "/Users/cabicash/convertNumbers/convertNumbers/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
