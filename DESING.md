@@ -16,3 +16,9 @@
 | divide the value by 10 | int value |
 | Receive a string object | string object|
 | add values to string | string object |
+
+
+
+| Class name Program| 
+| ----- | ---- |
+| Receive a txt document | txt document |
