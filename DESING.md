@@ -25,3 +25,8 @@
 | read txt document| txt document | 
 | Create a list string | txt document |
 | create a txt document | list string |
+
+
+ **UML CLASS**
+ 
+ 
