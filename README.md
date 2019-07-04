@@ -13,7 +13,7 @@ In this program you can convert numbers romans in arab or arab in romans.
 
 **Note:** The values must be divided only and exclusively by " | "
 
-Example: #value|United|Destination#
+Example: *value|United|Destination*
  
 2 - We will enter the address of our document txt by console..
 
