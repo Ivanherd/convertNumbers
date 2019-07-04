@@ -1,7 +1,7 @@
 # convertNumbers
 In this program you can convert numbers romans in arab or arab in romans.
 
-* Our goal is to convert Roman numerals to Arabic or Arabic numerals to Roman numerals, passing a text document to the system.
+* Our goal is to convert Roman numerals to Arabic or Arabic numerals to Roman numerals, passing a txt document by console.
 
 **How to use the program ?** 
 
