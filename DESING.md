@@ -1,4 +1,7 @@
+UML CLASS DIAGRAM 
 
+ <img width="957" alt="Captura de Pantalla 2019-07-04 a la(s) 3 28 57 p  m" src="https://user-images.githubusercontent.com/44682635/60685617-02af1600-9e72-11e9-9804-dca84c00479c.png">
+ 
 **CRC Cards**
 
 | Class name Roman| |
@@ -18,15 +21,9 @@
 | add values to string | string object |
 
 
-
 | Class name Program| |
 | ----- | ---- |
 | Receive a txt document | document direction txt |
 | read txt document| txt document | 
 | Create a list string | txt document |
 | create a txt document | list string |
-
-
- **UML CLASS**
- 
- 
