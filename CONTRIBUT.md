@@ -8,4 +8,4 @@ Make sure your problem is to convert Roman numerals to Arabic or Arabic to Roman
 
 2. Clone the project and create new branch 
 
-3. Run **dotnet run** to start the project
+3. If you are going to use visual code start running **dotnet run** to start the project
